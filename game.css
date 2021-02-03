@@ -1,0 +1,46 @@
+#gamecont img {
+    width: 100%;
+    text-align: center;
+
+
+}
+
+.gamed {
+    display: inline-block;
+    width: 200px;
+    height: 250px;
+    padding: 4px;
+    margin: 10px;
+    text-align: center;
+    border: 2px solid aqua;
+    border-radius: 6px;
+}
+
+#gamecont {
+    text-align: center;
+    display: inline-block;
+}
+
+header {
+    text-align: center;
+    margin: 40px;
+}
+
+#playarea {
+    position: relative;
+    top: 0px;
+    width: 100%;
+    height: 700px;
+    background: hotpink;
+    display: none;
+    padding: 8px;
+    margin: 10px;
+}
+
+iframe {
+    position: relative;
+    width: 100%;
+    height: 90%;
+    padding: 8px;
+    border: 2px solid red;
+}
